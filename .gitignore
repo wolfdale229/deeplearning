@@ -1,2 +1,5 @@
 data/
 dog_cat_small/
+.dist
+.git
+.ipynb_checkpoints
